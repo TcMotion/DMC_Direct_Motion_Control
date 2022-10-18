@@ -1,2 +1,2 @@
-# DMC_Direct_Motion_Control
-Direct_Motion_Control
+# DMC_Drive_Motion_Control
+Drive_Motion_Control
